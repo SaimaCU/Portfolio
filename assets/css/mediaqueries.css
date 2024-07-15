@@ -82,7 +82,7 @@
     }
     .featured-text-card{
         align-self: center;
-        font-size: 16px;
+        font-size: 17px;
     }
     .featured-name{
         align-self: center;
@@ -151,10 +151,10 @@
 
 @media only screen and (max-width: 540px){
     .featured-name{
-        font-size: 30px;
+        font-size: 35px;
     }
     .featured-text-card>span{
-        font-size: 14px;
+        font-size: 15px;
     }
     .project-box{
         width: 100%;
